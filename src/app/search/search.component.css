@@ -1,0 +1,27 @@
+.searchform{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px 0px 20px 0px;
+}
+
+.searchform input{
+  width: 40%;
+  padding: 20px;
+  border-radius: 20px 0px 0px 20px;
+  border:none;
+  opacity: 0.7;
+}
+.searchform input:focus {
+  outline: none;
+}
+.searchform button{
+  min-width: 20px;
+  padding: 20px;
+  border-radius: 0px 20px 20px 0px;
+  border:none;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
