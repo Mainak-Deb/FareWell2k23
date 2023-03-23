@@ -1,5 +1,5 @@
 .bodyTag{
     width: 100vw ;
-    height: 100vh;
-    background-color: #F6E6C2;
+    min-height: 100vh;
+    background-color: #DBD5E4;
 }
